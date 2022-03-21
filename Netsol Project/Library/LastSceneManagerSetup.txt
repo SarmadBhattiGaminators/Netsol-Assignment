@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Wrld/Demo/Examples.unity
+- path: Assets/!Scenes/EnemySpawning.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
